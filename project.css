@@ -1,0 +1,47 @@
+@import "../base"
+*{
+	margin:5px;
+}
+	body{
+	font-family: arial;
+}
+h1{
+	color:black;
+	background-color: white;
+	text-align:center;
+}
+p{
+	font-family:serif;
+	font-size: 18px;
+	color: blue;
+}
+h3{
+	color:green;
+}
+.teju{
+	border-collapse: collapse;
+	background-color:skyblue;
+	color:purple;
+	padding: 10px;
+}
+.myTableBg3 {
+  min-width: 100px;
+  min-height:100px;
+  text-align: center;
+  background-image:url('https://static.politico.com/dims4/default/aef41b7/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb6%2F64%2Fb13e1e86467fa4233784ed18bb64%2Fpolitico-friday-5-color.jpg')
+}
+#hello
+{
+	color: orange;margin: 50px;border: black;height: 290px;width: 650px;background-color: pink;text-align: center;background-image: url(https://ak.picdn.net/shutterstock/videos/9442775/thumb/1.jpg);
+}
+.hii{
+	text-align: center;
+}
+.chey{
+	text-align: center;
+}@media {max-width: 960px}
+.myTableBg3
+	width:auto
+	.hii
+	float:none
+	width:auto
